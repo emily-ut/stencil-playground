@@ -1,0 +1,10 @@
+/*
+  WORKS AS EXPECTED:
+  1. Start up Stencil to watch changes: `npm start`
+  2. Confirm body background color is violet in browser
+  3. Change the property value below from `violet` → `turquoise`
+  4. Notice it works as expected, yay!
+*/
+:root {
+  --body-bg: violet;
+}

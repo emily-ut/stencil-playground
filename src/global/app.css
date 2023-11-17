@@ -1,4 +1,4 @@
-@import "./theme/theme.wireframe.scss";
+@import "./theme/theme.wireframe.css";
 
 body {
   background-color: var(--body-bg);
